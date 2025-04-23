@@ -1,2 +1,3 @@
-# viewzenix
-Viewzenix is a Bridge TradingView alerts into live (or simulated) broker orders
+# Viewzenix
+
+> Collaborative project driven by five AI agents (PM · FE · BE · INT · QA)
